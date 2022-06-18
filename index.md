@@ -6,7 +6,9 @@ Stickers, I make to generate funds for the Village:
 
 https://www.redbubble.com/people/TrashPandaSec/
 
-Remember when in doubt, ![Dumpster Dive](/Images/dumpsterdive.jpeg)
+Remember when in doubt, Dumpster Dive.
+
+![Dumpster Dive](/Images/dumpsterdive.jpeg)
 
 
 
