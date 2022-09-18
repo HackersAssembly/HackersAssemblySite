@@ -2,9 +2,19 @@
 
 this site is under developement while I learn to use GH pages/ Jekyll and Ruby for that matter...
 
-Stickers, I make to generate funds for the Village: 
+You can support the space by purchasing swag here: https://www.redbubble.com/people/TrashPandaSec/
 
-https://www.redbubble.com/people/TrashPandaSec/
+
+## Noms 
+
+Being close to China Town in Philadelphia means we have can walk to some amazing restuarants: 
+https://trashp4ndavillage.github.io/TrashP4ndaVillage/Noms 
+
+
+## 
+
+https://trashp4ndavillage.github.io/TrashP4ndaVillage/Do 
+ 
 
 Remember when in doubt, Dumpster Dive.
 
