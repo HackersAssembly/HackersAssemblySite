@@ -9,19 +9,19 @@ Being close to China Town in Philadelphia means we have can walk to some amazing
 
 ## Noms 
 
-https://trashp4ndavillage.github.io/TrashP4ndaVillage/Noms 
+<https://trashp4ndavillage.github.io/TrashP4ndaVillage/Noms>
 
 ## Drinks 
 
-https://trashp4ndavillage.github.io/TrashP4ndaVillage/Drinks 
+<https://trashp4ndavillage.github.io/TrashP4ndaVillage/Drinks> 
 
 
 ## Things to do 
 
-https://trashp4ndavillage.github.io/TrashP4ndaVillage/Do 
+<https://trashp4ndavillage.github.io/TrashP4ndaVillage/Do> 
  
 
-Remember when in doubt, Dumpster Dive.
+Remember when in doubt...
 
 ![Dumpster Dive](/Images/dumpsterdive.jpeg)
 
