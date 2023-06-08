@@ -2,8 +2,7 @@
 
 this site is under developement while I learn to use GH pages/ Jekyll and Ruby for that matter...
 
-You can support the space by purchasing swag here: https://www.redbubble.com/people/TrashPandaSec/
-
+You can support the space by purchasing swag here: <https://www.redbubble.com/people/TrashPandaSec/>  or buying me a coffee here:<https://www.buymeacoffee.com/HackersAssembly> 
 
 Being close to China Town in Philadelphia means we have can walk to some amazing sights, restuarants, and bars: 
 
