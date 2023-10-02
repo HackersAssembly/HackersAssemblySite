@@ -1,4 +1,4 @@
-## Welcome to TrashP4ndaVillage 
+## Welcome to Hacckers Assembly
 
 this site is under developement while I learn to use GH pages/ Jekyll and Ruby for that matter...
 
